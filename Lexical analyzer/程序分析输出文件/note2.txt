@@ -1,3 +1,0 @@
-	ะะบล	 ฯ๊ว้
-NOTE:	 7	 //this is a note
-NOTE:	 15	 /*this is another note*/

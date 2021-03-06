@@ -1,2 +1,0 @@
-C:\Users\76073\source\repos\testhhh\testhhh\Debug\parser.exe
-C:\Users\76073\source\repos\testhhh\testhhh\Debug\parser.pdb
